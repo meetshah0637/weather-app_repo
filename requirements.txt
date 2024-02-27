@@ -1,0 +1,8 @@
+#Templates is the name of the folder for the ui
+#This file is used to keep all the dependencies
+Flask
+#gunicorn is required for cloud environment
+gunicorn
+requests
+#always good to mention the version
+
